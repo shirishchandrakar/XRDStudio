@@ -4,7 +4,7 @@ Pick a chemical system from the periodic table and read the calculated powder X-
 diffraction pattern of every structure on file for it — mathematically, from real crystal
 structures, not a lookup of scanned reference patterns.
 
-**[xrd-studio.html](./xrd-studio.html)** is the whole app. One file, nothing else needed.
+**[xrd-studio.html]((https://shirishchandrakar.github.io/XRDStudio/))** is the whole app. One file, nothing else needed.
 
 ## Running it
 
